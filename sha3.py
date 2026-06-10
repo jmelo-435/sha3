@@ -1,4 +1,4 @@
-from .scrambler import Scrambler
+from scrambler import Scrambler
 
 # Keccak [c]
 # https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
