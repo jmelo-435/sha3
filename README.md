@@ -1,6 +1,7 @@
 # sha3
 
 sha3 hasher from scratch
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
 
 ``` bash
 >>> from sha3 import Sha_v3
